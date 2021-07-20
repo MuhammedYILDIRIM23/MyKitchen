@@ -1,4 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AnayemekTarifleri" representedClassName="AnayemekTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="CorbaTarifleri" representedClassName="CorbaTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="DigerTarifleri" representedClassName="DigerTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="HamurisiTarifleri" representedClassName="HamurisiTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SalataTarifleri" representedClassName="SalataTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TatliTarifleri" representedClassName="TatliTarifleri" syncable="YES" codeGenerationType="class">
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="malzemeler" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="resim" optional="YES" attributeType="Binary"/>
+        <attribute name="yapilisi" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CorbaTarifleri" positionX="-63" positionY="-18" width="128" height="104"/>
+        <element name="SalataTarifleri" positionX="-63" positionY="18" width="128" height="104"/>
+        <element name="AnayemekTarifleri" positionX="-54" positionY="27" width="128" height="104"/>
+        <element name="HamurisiTarifleri" positionX="-36" positionY="36" width="128" height="104"/>
+        <element name="TatliTarifleri" positionX="-18" positionY="45" width="128" height="104"/>
+        <element name="DigerTarifleri" positionX="0" positionY="54" width="128" height="104"/>
+    </elements>
 </model>

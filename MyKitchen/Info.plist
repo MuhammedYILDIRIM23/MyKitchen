@@ -62,5 +62,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Fotoğraf seçebilmeniz için galeriye erişim izni vermeniz gerek.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Fotoğraf çekebilmeniz için kameranıza erişim izni vermeniz gerek.</string>
 </dict>
 </plist>

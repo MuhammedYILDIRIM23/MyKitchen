@@ -9,13 +9,34 @@
 /* Begin PBXBuildFile section */
 		27A4D697269EFBE80036DB2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D696269EFBE80036DB2C /* AppDelegate.swift */; };
 		27A4D699269EFBE80036DB2C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D698269EFBE80036DB2C /* SceneDelegate.swift */; };
-		27A4D69B269EFBE80036DB2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D69A269EFBE80036DB2C /* ViewController.swift */; };
+		27A4D69B269EFBE80036DB2C /* GirisVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D69A269EFBE80036DB2C /* GirisVC.swift */; };
 		27A4D69E269EFBE80036DB2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27A4D69C269EFBE80036DB2C /* Main.storyboard */; };
 		27A4D6A1269EFBE80036DB2C /* MyKitchen.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D69F269EFBE80036DB2C /* MyKitchen.xcdatamodeld */; };
 		27A4D6A3269EFBEE0036DB2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27A4D6A2269EFBEE0036DB2C /* Assets.xcassets */; };
 		27A4D6A6269EFBEE0036DB2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27A4D6A4269EFBEE0036DB2C /* LaunchScreen.storyboard */; };
 		27A4D6B1269EFBEE0036DB2C /* MyKitchenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6B0269EFBEE0036DB2C /* MyKitchenTests.swift */; };
 		27A4D6BC269EFBEE0036DB2C /* MyKitchenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6BB269EFBEE0036DB2C /* MyKitchenUITests.swift */; };
+		27A4D6CA269F0DFC0036DB2C /* AnasayfaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6C9269F0DFC0036DB2C /* AnasayfaVC.swift */; };
+		27A4D6CC269F1FCA0036DB2C /* CorbaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6CB269F1FCA0036DB2C /* CorbaVC.swift */; };
+		27A4D6CE269F1FE00036DB2C /* SalataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6CD269F1FE00036DB2C /* SalataVC.swift */; };
+		27A4D6D0269F1FEC0036DB2C /* AnayemekVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6CF269F1FEC0036DB2C /* AnayemekVC.swift */; };
+		27A4D6D2269F1FFF0036DB2C /* HamurisiVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6D1269F1FFF0036DB2C /* HamurisiVC.swift */; };
+		27A4D6D4269F200C0036DB2C /* TatlıVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6D3269F200C0036DB2C /* TatlıVC.swift */; };
+		27A4D6D6269F201B0036DB2C /* DigerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6D5269F201B0036DB2C /* DigerVC.swift */; };
+		27A4D6D8269F822B0036DB2C /* CorbaDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A4D6D7269F822B0036DB2C /* CorbaDetailVC.swift */; };
+		27B208EB26A33C9300C9A40A /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B208EA26A33C9300C9A40A /* SearchVC.swift */; };
+		27B90C7A26A1B7CA00EEBF9D /* CorbaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C7926A1B7CA00EEBF9D /* CorbaTableViewCell.swift */; };
+		27B90C7C26A1D35600EEBF9D /* SalataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C7B26A1D35600EEBF9D /* SalataTableViewCell.swift */; };
+		27B90C7E26A1D36D00EEBF9D /* AnayemekTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C7D26A1D36D00EEBF9D /* AnayemekTableViewCell.swift */; };
+		27B90C8026A1D37C00EEBF9D /* HamurisiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C7F26A1D37C00EEBF9D /* HamurisiTableViewCell.swift */; };
+		27B90C8226A1D38900EEBF9D /* TatliTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C8126A1D38900EEBF9D /* TatliTableViewCell.swift */; };
+		27B90C8426A1D39800EEBF9D /* DigerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B90C8326A1D39800EEBF9D /* DigerTableViewCell.swift */; };
+		27BC36BD26A0270700A5AD7E /* SalataDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BC36BC26A0270700A5AD7E /* SalataDetailVC.swift */; };
+		27BC36BF26A0272300A5AD7E /* AnayemekDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BC36BE26A0272300A5AD7E /* AnayemekDetailVC.swift */; };
+		27BC36C126A0273800A5AD7E /* HamurisiDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BC36C026A0273800A5AD7E /* HamurisiDetailVC.swift */; };
+		27BC36C326A0274E00A5AD7E /* TatliDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BC36C226A0274E00A5AD7E /* TatliDetailVC.swift */; };
+		27BC36C526A0276100A5AD7E /* DigerDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BC36C426A0276100A5AD7E /* DigerDetailVC.swift */; };
+		27C4B85726A433B30078153C /* UrlVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C4B85626A433B30078153C /* UrlVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +60,7 @@
 		27A4D693269EFBE80036DB2C /* MyKitchen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyKitchen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27A4D696269EFBE80036DB2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27A4D698269EFBE80036DB2C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		27A4D69A269EFBE80036DB2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		27A4D69A269EFBE80036DB2C /* GirisVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirisVC.swift; sourceTree = "<group>"; };
 		27A4D69D269EFBE80036DB2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		27A4D6A0269EFBE80036DB2C /* MyKitchen.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyKitchen.xcdatamodel; sourceTree = "<group>"; };
 		27A4D6A2269EFBEE0036DB2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +72,27 @@
 		27A4D6B7269EFBEE0036DB2C /* MyKitchenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyKitchenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27A4D6BB269EFBEE0036DB2C /* MyKitchenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKitchenUITests.swift; sourceTree = "<group>"; };
 		27A4D6BD269EFBEE0036DB2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27A4D6C9269F0DFC0036DB2C /* AnasayfaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaVC.swift; sourceTree = "<group>"; };
+		27A4D6CB269F1FCA0036DB2C /* CorbaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorbaVC.swift; sourceTree = "<group>"; };
+		27A4D6CD269F1FE00036DB2C /* SalataVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalataVC.swift; sourceTree = "<group>"; };
+		27A4D6CF269F1FEC0036DB2C /* AnayemekVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnayemekVC.swift; sourceTree = "<group>"; };
+		27A4D6D1269F1FFF0036DB2C /* HamurisiVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamurisiVC.swift; sourceTree = "<group>"; };
+		27A4D6D3269F200C0036DB2C /* TatlıVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TatlıVC.swift"; sourceTree = "<group>"; };
+		27A4D6D5269F201B0036DB2C /* DigerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigerVC.swift; sourceTree = "<group>"; };
+		27A4D6D7269F822B0036DB2C /* CorbaDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorbaDetailVC.swift; sourceTree = "<group>"; };
+		27B208EA26A33C9300C9A40A /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
+		27B90C7926A1B7CA00EEBF9D /* CorbaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorbaTableViewCell.swift; sourceTree = "<group>"; };
+		27B90C7B26A1D35600EEBF9D /* SalataTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalataTableViewCell.swift; sourceTree = "<group>"; };
+		27B90C7D26A1D36D00EEBF9D /* AnayemekTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnayemekTableViewCell.swift; sourceTree = "<group>"; };
+		27B90C7F26A1D37C00EEBF9D /* HamurisiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamurisiTableViewCell.swift; sourceTree = "<group>"; };
+		27B90C8126A1D38900EEBF9D /* TatliTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TatliTableViewCell.swift; sourceTree = "<group>"; };
+		27B90C8326A1D39800EEBF9D /* DigerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigerTableViewCell.swift; sourceTree = "<group>"; };
+		27BC36BC26A0270700A5AD7E /* SalataDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalataDetailVC.swift; sourceTree = "<group>"; };
+		27BC36BE26A0272300A5AD7E /* AnayemekDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnayemekDetailVC.swift; sourceTree = "<group>"; };
+		27BC36C026A0273800A5AD7E /* HamurisiDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamurisiDetailVC.swift; sourceTree = "<group>"; };
+		27BC36C226A0274E00A5AD7E /* TatliDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TatliDetailVC.swift; sourceTree = "<group>"; };
+		27BC36C426A0276100A5AD7E /* DigerDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigerDetailVC.swift; sourceTree = "<group>"; };
+		27C4B85626A433B30078153C /* UrlVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +145,30 @@
 			children = (
 				27A4D696269EFBE80036DB2C /* AppDelegate.swift */,
 				27A4D698269EFBE80036DB2C /* SceneDelegate.swift */,
-				27A4D69A269EFBE80036DB2C /* ViewController.swift */,
-				27A4D69C269EFBE80036DB2C /* Main.storyboard */,
+				27A4D69A269EFBE80036DB2C /* GirisVC.swift */,
+				27A4D6C9269F0DFC0036DB2C /* AnasayfaVC.swift */,
+				27B208EA26A33C9300C9A40A /* SearchVC.swift */,
+				27C4B85626A433B30078153C /* UrlVC.swift */,
+				27A4D6CB269F1FCA0036DB2C /* CorbaVC.swift */,
+				27A4D6D7269F822B0036DB2C /* CorbaDetailVC.swift */,
+				27B90C7926A1B7CA00EEBF9D /* CorbaTableViewCell.swift */,
+				27A4D6CD269F1FE00036DB2C /* SalataVC.swift */,
+				27BC36BC26A0270700A5AD7E /* SalataDetailVC.swift */,
+				27B90C7B26A1D35600EEBF9D /* SalataTableViewCell.swift */,
+				27A4D6CF269F1FEC0036DB2C /* AnayemekVC.swift */,
+				27BC36BE26A0272300A5AD7E /* AnayemekDetailVC.swift */,
+				27B90C7D26A1D36D00EEBF9D /* AnayemekTableViewCell.swift */,
+				27A4D6D1269F1FFF0036DB2C /* HamurisiVC.swift */,
+				27BC36C026A0273800A5AD7E /* HamurisiDetailVC.swift */,
+				27B90C7F26A1D37C00EEBF9D /* HamurisiTableViewCell.swift */,
+				27A4D6D3269F200C0036DB2C /* TatlıVC.swift */,
+				27BC36C226A0274E00A5AD7E /* TatliDetailVC.swift */,
+				27B90C8126A1D38900EEBF9D /* TatliTableViewCell.swift */,
+				27A4D6D5269F201B0036DB2C /* DigerVC.swift */,
+				27BC36C426A0276100A5AD7E /* DigerDetailVC.swift */,
+				27B90C8326A1D39800EEBF9D /* DigerTableViewCell.swift */,
 				27A4D6A2269EFBEE0036DB2C /* Assets.xcassets */,
+				27A4D69C269EFBE80036DB2C /* Main.storyboard */,
 				27A4D6A4269EFBEE0036DB2C /* LaunchScreen.storyboard */,
 				27A4D6A7269EFBEE0036DB2C /* Info.plist */,
 				27A4D69F269EFBE80036DB2C /* MyKitchen.xcdatamodeld */,
@@ -261,10 +324,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27A4D69B269EFBE80036DB2C /* ViewController.swift in Sources */,
+				27BC36C526A0276100A5AD7E /* DigerDetailVC.swift in Sources */,
+				27B90C8426A1D39800EEBF9D /* DigerTableViewCell.swift in Sources */,
+				27BC36BF26A0272300A5AD7E /* AnayemekDetailVC.swift in Sources */,
+				27B90C7C26A1D35600EEBF9D /* SalataTableViewCell.swift in Sources */,
+				27A4D6D6269F201B0036DB2C /* DigerVC.swift in Sources */,
+				27B208EB26A33C9300C9A40A /* SearchVC.swift in Sources */,
+				27A4D6D8269F822B0036DB2C /* CorbaDetailVC.swift in Sources */,
+				27B90C8026A1D37C00EEBF9D /* HamurisiTableViewCell.swift in Sources */,
+				27A4D6D2269F1FFF0036DB2C /* HamurisiVC.swift in Sources */,
+				27B90C7A26A1B7CA00EEBF9D /* CorbaTableViewCell.swift in Sources */,
+				27B90C8226A1D38900EEBF9D /* TatliTableViewCell.swift in Sources */,
+				27BC36C126A0273800A5AD7E /* HamurisiDetailVC.swift in Sources */,
+				27C4B85726A433B30078153C /* UrlVC.swift in Sources */,
+				27A4D6CC269F1FCA0036DB2C /* CorbaVC.swift in Sources */,
+				27A4D69B269EFBE80036DB2C /* GirisVC.swift in Sources */,
 				27A4D697269EFBE80036DB2C /* AppDelegate.swift in Sources */,
+				27BC36C326A0274E00A5AD7E /* TatliDetailVC.swift in Sources */,
 				27A4D6A1269EFBE80036DB2C /* MyKitchen.xcdatamodeld in Sources */,
+				27BC36BD26A0270700A5AD7E /* SalataDetailVC.swift in Sources */,
+				27A4D6CE269F1FE00036DB2C /* SalataVC.swift in Sources */,
+				27A4D6CA269F0DFC0036DB2C /* AnasayfaVC.swift in Sources */,
+				27B90C7E26A1D36D00EEBF9D /* AnayemekTableViewCell.swift in Sources */,
 				27A4D699269EFBE80036DB2C /* SceneDelegate.swift in Sources */,
+				27A4D6D0269F1FEC0036DB2C /* AnayemekVC.swift in Sources */,
+				27A4D6D4269F200C0036DB2C /* TatlıVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
