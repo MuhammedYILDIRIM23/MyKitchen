@@ -1,7 +1,7 @@
 
 # MyKitchen
 
-##A simple application where you can save your recipes.
+# A simple application where you can save your recipes.
 
 
 <img width="450" alt="2021-07-20 at 12 41 50" src="https://user-images.githubusercontent.com/82177807/126312422-f11137ec-0d44-497b-9f03-a17e90b3cbc5.png">
