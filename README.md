@@ -4,10 +4,9 @@
 # A simple application where you can save your recipes.
 
 
-<img width="450" alt="2021-07-20 at 12 41 50" src="https://user-images.githubusercontent.com/82177807/126312422-f11137ec-0d44-497b-9f03-a17e90b3cbc5.png">
-<img width="450" alt="2021-07-20 at 12 41 57" src="https://user-images.githubusercontent.com/82177807/126312430-b6c755a0-1ecd-446e-b5a4-675f37b3273c.png">
-<img width="450" alt="2021-07-20 at 12 44 00" src="https://user-images.githubusercontent.com/82177807/126312438-78685470-402e-4281-87fb-21f90d5f1b19.png">
-<img width="450" alt="2021-07-20 at 12 44 27" src="https://user-images.githubusercontent.com/82177807/126312448-4bda6d6d-5669-4028-83c7-9337e73c1969.png">
-<img width="450" alt="2021-07-20 at 13 10 45" src="https://user-images.githubusercontent.com/82177807/126312458-a02c137b-f189-4c01-a76d-7be011fd3d89.png">
+<img width="450" alt="2021-07-26 at 17.07.42" src="https://user-images.githubusercontent.com/82177807/127007537-832038de-1901-4a4e-ac69-147ab6df60b6.png">
+<img width="450" alt="2021-07-26 at 17.07.49" src="https://user-images.githubusercontent.com/82177807/127007565-b0ae946b-8d94-4423-ae0d-6bee1e0dbc99.png">
+<img width="450" alt="2021-07-26 at 15.21.12" src="https://user-images.githubusercontent.com/82177807/127007570-1674eb69-87db-479f-90aa-ae8fd108562e.png">
+<img width="450" alt="2021-07-26 at 15.21.25" src="https://user-images.githubusercontent.com/82177807/127007577-ab92af3e-383a-454b-89f5-efd9c67eb591.png">
 
 
